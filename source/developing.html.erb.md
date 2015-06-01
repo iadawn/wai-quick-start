@@ -1,6 +1,5 @@
 ---
 title: "Quick start tips for accessible coding"
-status: editors-draft
 layout: guide
 ---
 
