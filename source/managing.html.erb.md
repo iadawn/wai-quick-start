@@ -1,6 +1,5 @@
 ---
 title: "Quick start tips for managing accessibility"
-status: editors-draft
 layout: guide
 ---
 
