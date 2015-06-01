@@ -1,6 +1,5 @@
 ---
 title: "Quick start tips for writing accessible content"
-status: editors-draft
 layout: guide
 ---
 
