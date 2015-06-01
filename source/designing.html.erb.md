@@ -33,132 +33,40 @@ Wherever text is displayed, including on buttons, check that you have chosen for
 
 Color can be a useful indicator of emphasis or meaning but can never be the only way such meaning is conveyed. Use additional notification methods that do not rely on color perception when using color to differentiate elements, for example in graphs or maps, or when highlighting information, for example required form fields or important text.
 
-{::nomarkdown}
-<%= example_start %>
-{:/}
-
-[... Image of example graph ...]
-
-[... Reference to color in text example? ...]
-
-{::nomarkdown}
-<%= example_end %>
-{:/}
-
 {:.attach_permalink}
 ## Ensure interactive elements are easily identified
 
 Provide distinct styles for the inactive and active states of interactive elements, including links. This includes mouse hover, keyboard focus, and possibly even when it is activated on a touch device. Ensure the alternative styling provides sufficient contrast, and make the element easily identifiable.
-
-{::nomarkdown}
-<%= example_start %>
-{:/}
-
-[... Example of styles for normal, hover, focus, active on link (and form element)? ...]
-
-{::nomarkdown}
-<%= example_end %>
-{:/}
 
 {:.attach_permalink}
 ## Provide consistent navigation and orientation information
 
 Ensure page designs include clear and consistent navigation that indicate where in a site the user is, for example, breadcrumbs, and how they can access other areas of the site, for example, primary navigation in a header. Secondary navigation styles may be required for specific web content, such as products in an online store. Aim for consistency in style if secondary navigation is used in many different places.
 
-<!-- TODO: Edit to reflect new title -->
-
-{::nomarkdown}
-<%= example_start %>
-{:/}
-
-[... Example of various navigation styles? ...]
-
-{::nomarkdown}
-<%= example_end %>
-{:/}
-
 {:.attach_permalink}
 ## Provide visible controls for audio and video players
 
 For designs that include audio or video content, ensure that there is provision for controls for the player. The controls should include as a minimum start, pause, seek controls, and volume controls. Ensure their position, size, and styling make them sufficiently prominent.
-
-{::nomarkdown}
-<%= example_start %>
-{:/}
-
-[... Example of good and bad controls? ...]
-
-{::nomarkdown}
-<%= example_end %>
-{:/}
 
 {:.attach_permalink}
 ## Ensure form elements include clearly associated labels
 
 When creating forms, ensure that all elements have a descriptive label adjacent to the element. Labels are usually positioned to the left or above the element, except for checkboxes and radio buttons where it is usually to the right. Avoid having too much distance between labels and associated elements.
 
-[**Note:** What about elements where labels are not required?]
-
-[**Note:** Should some mention be made regarding space for instructions?]
-
-{::nomarkdown}
-<%= example_start %>
-{:/}
-
-{::nomarkdown}
-<%= example_end %>
-{:/}
-
 {:.attach_permalink}
 ## Provide clear presentation of errors
 
 When something goes wrong, it should be extremely obvious where to find the problem. Ideally, provide a list of errors above the form, repeat the error beside the offending form element, and create a style that make the element really stand out. Inline validation can be extremely helpful for many users, but needs careful coding to ensure accessibility.
-
-[**Note:** Should something on this be included in the developing section?]
-
-{::nomarkdown}
-<%= example_start %>
-{:/}
-
-[... Example of form errors ...]
-
-{::nomarkdown}
-<%= example_end %>
-{:/}
 
 {:.attach_permalink}
 ## Use headers and whitespace to group content
 
 Text design benefits from clear headers to chunk up content, and main content that is not too wide. Ideal font size will vary for all users, so it is important to ensure that changes in the font size can be accommodated in the design, for example, by creating different layouts for different levels of zoom.
 
-<!-- TODO: Update description to reflect new title -->
-
-{::nomarkdown}
-<%= example_start %>
-{:/}
-
-[... Example of text layout? ...]
-
-{::nomarkdown}
-<%= example_end %>
-{:/}
-
 {:.attach_permalink}
 ## Present text in a flexible font size and line length
 
 Ideal font size will vary for all users, so it is important to ensure that changes in the font size can be accommodated in the design, for example, by creating different layouts for different levels of zoom. For all designs ensure that the line length is kept to about 80 characters maximum.
-
-[**Note:** Suggests a separate section on creating responsive designs?]
-
-{::nomarkdown}
-<%= example_start %>
-{:/}
-
-[... Example of text layout? ...]
-
-{::nomarkdown}
-<%= example_end %>
-{:/}
 
 {:.attach_permalink}
 ## Learn more about accessibility
