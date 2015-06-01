@@ -1,6 +1,5 @@
 ---
 title: "Quick start tips for accessible design"
-status: editors-draft
 layout: guide
 ---
 
