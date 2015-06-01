@@ -1,6 +1,5 @@
 ---
 title: "Quick Start Tips"
-status: editors-draft
 ---
 
 These guides provide you with practical tips to get started with web accessibility, and pointers to detailed resources to learn more.
